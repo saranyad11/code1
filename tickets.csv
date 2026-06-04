@@ -1,0 +1,4 @@
+ticket_id,customer,priority,category,status
+1,John Doe,HIGH,Technical,OPEN
+2,Jane Smith,LOW,Billing,CLOSED
+3,Mike Johnson,MEDIUM,Account,OPEN

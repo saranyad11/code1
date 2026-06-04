@@ -1,0 +1,10 @@
+database:
+  host: localhost
+  port: 5432
+
+ticket_settings:
+  default_priority: MEDIUM
+  auto_close_days: 30
+
+reporting:
+  export_format: csv
